@@ -1,4 +1,4 @@
-# Hellrazer-Source-Release
+# Offical Source Code Release Of "Hellrazer"
 The Official Source Release Of Mysterious Creations Game "Hellrazer"
 
 # Introduction 
